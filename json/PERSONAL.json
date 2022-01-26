@@ -1,0 +1,69 @@
+{
+  "CONCEJO DELIBERANTE": {
+   "Concejo deliberante": 32
+
+  },
+  "INTEDENCIA": {
+   "Asuntos legales": 9,
+   "Tecnol.de la inf.": 10,
+    "Intendencia": 2,
+   "Juzgado de faltas": 10,
+   "Protocolo y ceremonial": 4
+   
+  },
+  "GOBIERNO": {
+   "Educac.y cultura": 38,
+   "Choferes": 17,
+   "Gobierno seg.educ.y cultura": 9,
+   "Prevención": 76,
+   "RRHH": 28,
+   "Rel. institucionales": 16,
+   "Turismo": 5
+   
+  },
+  "PLANIFICACION": {
+   "Diseño y planific.": 2,
+   "Serv.cons.": 1,
+   "Infraestructura": 14,
+   "Obras particulares": 17,
+   "Planeam.y catastro": 2,
+   "Planif.y gestión urbana": 1
+   
+   
+  },
+  "ESPACIOS PUBLICOS": {
+   "Ambiente": 3,
+   "Espacios públicos": 34,
+   "Gestión ambiental": 8,
+
+   "Sec.de amb. y serv.pub.": 43,
+   "Servicios públicos": 191,
+   "Zoonosis y vectores": 4
+  },
+  "DESARROLLO SOCIAL": {
+   "Ctos. des. infantil": 36,
+   "Deportes": 16,
+   "Dir.de familia": 33,
+   "Dirección de juventud": 11,
+   "Nuevas economías": 7,
+   "Politicas de género": 1,
+   "Desarollo social": 13,
+   "Servicio soc.de base": 48,
+   "Unidad de niñez": 1
+   
+  },
+  "ECONOMIA": {
+   "Contaduría": 18,
+   "Des.Econom.": 6,
+   "Control comerc.": 24,
+   "Rentas": 28,
+   "Eeconomía": 4,
+   "Tesorería": 13
+   
+  },
+  "ORGANISMOS DESCENTRALIZADOS": {
+
+   "Planta de asfalto": 22
+   
+  }
+}

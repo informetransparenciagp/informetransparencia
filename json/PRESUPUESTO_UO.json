@@ -1,0 +1,76 @@
+{
+  "CONCEJO DELIBERANTE": {
+   "Concejo deliberante": 56895495
+
+  },
+  "INTEDENCIA": {
+   "Asuntos legales":  14102125,
+   "Comunicaciones": 11490614,
+   "Tecnol.de la inf.": 20648776,
+   "Articulación": 2444690,
+   "Intendencia": 10215491,
+   "Juzgado de faltas": 17383395,
+   "Protocolo y ceremonial": 6254728
+   
+  },
+  "GOBIERNO": {
+   "Educac.y cultura": 46239441,
+   "Choferes": 19118497,
+   "Gobierno seg.educ.y cultura": 30842105,
+   "Prevención": 85073273,
+   "RRHH": 26203112,
+   "Rel. institucionales": 24998053,
+   "Turismo": 6077844
+   
+  },
+  "PLANIFICACION": {
+   "Diseño y planific.": 2940424,
+   "Serv.cons.": 2969450,
+   "Infraestructura": 89150259,
+   "Obras particulares": 22426372,
+   "Planeam.y catastro": 5125043,
+   "Planif.y gestión urbana": 15035305,
+   "Proyect prov y nac" : 61975625
+   
+   
+  },
+  "ESPACIOS PUBLICOS": {
+   "Ambiente y des.sustentable": 4800398,
+   "Espacios públicos": 59285862,
+   "Gestión ambiental": 13617475,
+   "R.R.U": 16450925,
+   "Sec.de amb. y serv.pub.": 75085790,
+   "Servicios públicos": 249525046,
+   "Zoonosis y vectores": 13294739
+  },
+  "DESARROLLO SOCIAL": {
+   "Ctos. des. infantil": 39612770,
+   "Deportes": 23457201,
+   "Dir.de familia": 38060469,
+   "Dirección de juventud": 8725470,
+   "Nuevas economías": 15162738,
+   "Políticas de género": 2827327,
+   "Desarrollo social": 59348372,
+   "Servicio soc.de base": 35420420,
+   "Unidad de niñez": 13979695
+   
+  },
+  "ECONOMIA": {
+   "Contaduría": 24506125,
+   "Des.Econom.": 30760178,
+   "Control comerc.": 26795160,
+   "Rentas": 30322846,
+   "Eeconomía": 7681509,
+   "Tesorería": 19169046
+   
+  },
+  "ORGANISMOS DESCENTRALIZADOS": {
+   "Caminos vecinales": 14326821,
+   "Planta de asfalto": 56354895
+   
+  },
+  "NO PROGRAMATICO": {
+   "Partidas no programáticas": 219181849
+
+  }
+}
